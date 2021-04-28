@@ -9,3 +9,4 @@ router.get('/', getPosts);
 router.post('/', createPost);
 router.post('/', updatePost);
 export default router;
+update
